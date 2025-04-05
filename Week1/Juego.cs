@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
 
-namespace Taller3D_Ejercicio1
+namespace Taller3D_Ejercicio1.Week1
 {
     internal class Juego
     {

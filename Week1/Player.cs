@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Taller3D_Ejercicio1
+namespace Taller3D_Ejercicio1.Week1
 {
     internal class Player
     {

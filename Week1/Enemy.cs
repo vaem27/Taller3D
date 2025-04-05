@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Taller3D_Ejercicio1
+namespace Taller3D_Ejercicio1.Week1
 {
     internal class Enemy
     {
