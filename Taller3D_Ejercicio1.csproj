@@ -46,8 +46,13 @@
     <Compile Include="Week1\Enemy.cs" />
     <Compile Include="Week1\Juego.cs" />
     <Compile Include="Week1\Player.cs" />
-    <Compile Include="Week1\Program.cs" />
+    <Compile Include="ProgramController\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Week2_1\EnemyMelee.cs" />
+    <Compile Include="Week2_1\EnemyRange.cs" />
+    <Compile Include="Week2_1\Enemys.cs" />
+    <Compile Include="Week2_1\JuegoPorTurno.cs" />
+    <Compile Include="Week2_1\Player.cs" />
     <Compile Include="Week2\Circle.cs" />
     <Compile Include="Week2\Figuras.cs" />
     <Compile Include="Week2\Rectangle.cs" />
